@@ -1,3 +1,3 @@
-# chili-pkgbuild-template
+# chili-datetime
 
-Template for Chili Linux packages
+chili-datetime

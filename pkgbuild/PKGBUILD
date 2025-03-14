@@ -1,13 +1,8 @@
 # Maintainer: Vilmar Catafesta <vcatafesta@gmail.com>
 
-pkgname=chili-pkgname
-pkgdesc="Package template for Chililinux"
-#depends=('')
-#makedepends=('')
-#optdepends=('')
-#conflicts=('')
-#provides=('')
-#replaces=('')
+pkgname=chili-datetime
+pkgdesc="Application to synchronize date and time"
+depends=(python)
 pkgver=$(date +%Y%m%d)
 pkgrel=$(date +%H%M)
 arch=('any')

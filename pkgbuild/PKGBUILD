@@ -2,7 +2,7 @@
 
 pkgname=chili-datetime
 pkgdesc="Application to synchronize date and time"
-depends=(python)
+depends=(python python-pytz python-tzlocal)
 pkgver=$(date +%Y%m%d)
 pkgrel=$(date +%H%M)
 arch=('any')

@@ -1,3 +1,3 @@
 # chili-datetime
 
-chili-datetime
+Application to synchronize date and time
